@@ -1,6 +1,6 @@
 ![Overly Realistic title](https://cdn.modrinth.com/data/cached_images/b7b90b75963f23a452cfcdb8f76c9a379523719c.png)
 
-Overly Relistic is a datapack & mod that adds a variety of features to minecraft, its goal is to make the game.. well.. overly-realistic! This takes inspiration from [Civilization's Beginnings](https://modrinth.com/datapack/civilizations-beginnings) and [Joyful's video on the problem with simulating civilizations in minecraft](https://youtu.be/6WJT-jPV1Mo)
+Overly Realistic is a datapack & mod that adds a variety of features to minecraft, its goal is to make the game.. well.. overly-realistic! This takes inspiration from [Civilization's Beginnings](https://modrinth.com/datapack/civilizations-beginnings) and [Joyful's video on the problem with simulating civilizations in minecraft](https://youtu.be/6WJT-jPV1Mo)
 
 The project is also inspired by real human evolutionary history and how it ultimately unfolded; a core idea for this project is to make lone survival extremely hard, meaning, players need to be grouping into tribes in order to more easily progress and survive..
 
